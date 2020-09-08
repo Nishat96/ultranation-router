@@ -1,0 +1,21 @@
+#See-details{
+     margin-left: 560px;
+     background-color: #818863;
+     color: white;
+     font-weight: 600;
+}  
+#See-details:hover{
+    background-color: #3e6627;
+}
+.detail-link{
+    position: relative;
+    top: 0px;
+}
+#country-card{
+    background-color: #99bb6c;
+    border-bottom: 1px solid #2c3a0c;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: 5px 5px 10px #044218;  
+    margin-top: 30px;
+}

@@ -10,7 +10,7 @@ const Home = () => {
     }, [])
     return (
         <div>
-            <h1>Country: {country.length}</h1>
+            {/* <h1>Country: {country.length}</h1> */}
            {
                country.map(country => <Country country={country}></Country>)
            }

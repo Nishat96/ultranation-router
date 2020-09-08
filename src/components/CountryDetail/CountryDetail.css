@@ -1,0 +1,14 @@
+#country-detail-card{
+    margin-left: 400px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px #044218; 
+}
+.name{
+    color: #091753;
+    font-weight: 700!important;
+}
+.country-info{
+    color: #525a69;
+    font-size: 12px;
+    font-weight: 700;
+}
